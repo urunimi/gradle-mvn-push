@@ -76,6 +76,12 @@ RELEASE_REPOSITORY_URL (defaults to Maven Central's staging server)
 SNAPSHOT_REPOSITORY_URL (defaults to Maven Central's snapshot server)
 ```
 
+### Additional Referenes and Sites
+
+https://docs.sonatype.org/display/Repository/How+To+Generate+PGP+Signatures+With+Maven
+https://oss.sonatype.org/index.html
+
+
 ## License
 
     Copyright 2013 Chris Banes
