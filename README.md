@@ -81,6 +81,8 @@ SNAPSHOT_REPOSITORY_URL (defaults to Maven Central's snapshot server)
 https://docs.sonatype.org/display/Repository/How+To+Generate+PGP+Signatures+With+Maven
 https://oss.sonatype.org/index.html
 
+If it is the first time you release artifacts, follow this article.
+https://docs.sonatype.org/display/Repository/Sonatype+OSS+Maven+Repository+Usage+Guide
 
 ## License
 
