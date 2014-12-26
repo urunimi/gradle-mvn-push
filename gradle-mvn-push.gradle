@@ -95,7 +95,7 @@ afterEvaluate { project ->
 
     task androidJavadocs(type: Javadoc) {
         failOnError false
-        source = android.sourceSets.main.allJava
+        source = android.sourceSets.main.java.getSrcDirs()
     }
 
     task androidJavadocsJar(type: Jar, dependsOn: androidJavadocs) {
